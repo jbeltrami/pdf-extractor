@@ -1,0 +1,3 @@
+**/*.pdf
+result.pdf
+__pycache__
