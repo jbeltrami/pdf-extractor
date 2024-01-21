@@ -7,7 +7,6 @@ cryptography==41.0.7
 DateTime==5.4
 dbus-python==1.2.18
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
 Flask==3.0.0
 greenlet==1.1.2
 gunicorn==21.2.0
